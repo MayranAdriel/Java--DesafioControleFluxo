@@ -1,2 +1,4 @@
-package Exercicio;public class ParametrosInvalidosException {
+package Exercicio;
+
+public class ParametrosInvalidosException extends Exception{
 }
